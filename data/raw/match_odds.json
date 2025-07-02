@@ -1,0 +1,1002 @@
+[
+    {
+        "match_id": "M001",
+        "home_team": "Chelsea",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-03 18:22:55",
+        "home_odds": 2.69,
+        "draw_odds": 2.99,
+        "away_odds": 2.21,
+        "result": "Home"
+    },
+    {
+        "match_id": "M002",
+        "home_team": "West Ham",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-02 17:14:21",
+        "home_odds": 2.51,
+        "draw_odds": 2.56,
+        "away_odds": 2.14,
+        "result": "Home"
+    },
+    {
+        "match_id": "M003",
+        "home_team": "Leeds",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-05 18:03:45",
+        "home_odds": 2.47,
+        "draw_odds": 3.93,
+        "away_odds": 3.05,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M004",
+        "home_team": "Everton",
+        "away_team": "Man United",
+        "start_time": "2025-07-05 09:17:03",
+        "home_odds": 2.77,
+        "draw_odds": 2.51,
+        "away_odds": 3.21,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M005",
+        "home_team": "Spurs",
+        "away_team": "Man United",
+        "start_time": "2025-07-05 02:58:09",
+        "home_odds": 1.99,
+        "draw_odds": 4.41,
+        "away_odds": 2.5,
+        "result": "Home"
+    },
+    {
+        "match_id": "M006",
+        "home_team": "Chelsea",
+        "away_team": "Spurs",
+        "start_time": "2025-07-04 02:35:52",
+        "home_odds": 2.82,
+        "draw_odds": 3.71,
+        "away_odds": 3.21,
+        "result": "Away"
+    },
+    {
+        "match_id": "M007",
+        "home_team": "West Ham",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-03 15:48:29",
+        "home_odds": 2.97,
+        "draw_odds": 3.26,
+        "away_odds": 2.83,
+        "result": "Away"
+    },
+    {
+        "match_id": "M008",
+        "home_team": "Leeds",
+        "away_team": "Spurs",
+        "start_time": "2025-07-09 00:48:14",
+        "home_odds": 2.49,
+        "draw_odds": 3.91,
+        "away_odds": 2.07,
+        "result": "Home"
+    },
+    {
+        "match_id": "M009",
+        "home_team": "Man United",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-03 11:16:37",
+        "home_odds": 2.83,
+        "draw_odds": 4.23,
+        "away_odds": 2.57,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M010",
+        "home_team": "Spurs",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-07 12:50:53",
+        "home_odds": 2.24,
+        "draw_odds": 2.92,
+        "away_odds": 2.4,
+        "result": "Away"
+    },
+    {
+        "match_id": "M011",
+        "home_team": "Chelsea",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-02 19:12:42",
+        "home_odds": 2.44,
+        "draw_odds": 2.99,
+        "away_odds": 2.69,
+        "result": "Home"
+    },
+    {
+        "match_id": "M012",
+        "home_team": "West Ham",
+        "away_team": "Man City",
+        "start_time": "2025-07-02 18:38:00",
+        "home_odds": 2.62,
+        "draw_odds": 4.19,
+        "away_odds": 3.16,
+        "result": "Home"
+    },
+    {
+        "match_id": "M013",
+        "home_team": "Arsenal",
+        "away_team": "Spurs",
+        "start_time": "2025-07-03 13:14:42",
+        "home_odds": 2.28,
+        "draw_odds": 2.63,
+        "away_odds": 3.37,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M014",
+        "home_team": "Spurs",
+        "away_team": "Man City",
+        "start_time": "2025-07-05 01:38:14",
+        "home_odds": 2.59,
+        "draw_odds": 3.29,
+        "away_odds": 3.37,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M015",
+        "home_team": "Man United",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-05 05:43:18",
+        "home_odds": 2.1,
+        "draw_odds": 3.62,
+        "away_odds": 2.39,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M016",
+        "home_team": "Leeds",
+        "away_team": "Newcastle",
+        "start_time": "2025-07-08 13:08:59",
+        "home_odds": 2.23,
+        "draw_odds": 4.49,
+        "away_odds": 2.21,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M017",
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-02 17:41:00",
+        "home_odds": 1.98,
+        "draw_odds": 2.82,
+        "away_odds": 3.02,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M018",
+        "home_team": "Newcastle",
+        "away_team": "Leeds",
+        "start_time": "2025-07-09 05:25:44",
+        "home_odds": 2.52,
+        "draw_odds": 3.44,
+        "away_odds": 2.38,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M019",
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-04 19:52:12",
+        "home_odds": 2.62,
+        "draw_odds": 3.57,
+        "away_odds": 2.4,
+        "result": "Away"
+    },
+    {
+        "match_id": "M020",
+        "home_team": "Chelsea",
+        "away_team": "Man United",
+        "start_time": "2025-07-09 00:40:48",
+        "home_odds": 2.32,
+        "draw_odds": 3.41,
+        "away_odds": 3.43,
+        "result": "Away"
+    },
+    {
+        "match_id": "M021",
+        "home_team": "Man United",
+        "away_team": "West Ham",
+        "start_time": "2025-07-07 12:08:54",
+        "home_odds": 2.71,
+        "draw_odds": 3.52,
+        "away_odds": 2.16,
+        "result": "Away"
+    },
+    {
+        "match_id": "M022",
+        "home_team": "West Ham",
+        "away_team": "Man City",
+        "start_time": "2025-07-05 02:09:44",
+        "home_odds": 1.98,
+        "draw_odds": 4.03,
+        "away_odds": 2.81,
+        "result": "Away"
+    },
+    {
+        "match_id": "M023",
+        "home_team": "West Ham",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-07 20:47:45",
+        "home_odds": 2.52,
+        "draw_odds": 3.48,
+        "away_odds": 2.17,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M024",
+        "home_team": "Man United",
+        "away_team": "Man City",
+        "start_time": "2025-07-05 18:59:00",
+        "home_odds": 1.87,
+        "draw_odds": 4.26,
+        "away_odds": 3.42,
+        "result": "Home"
+    },
+    {
+        "match_id": "M025",
+        "home_team": "Everton",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-02 11:50:50",
+        "home_odds": 2.97,
+        "draw_odds": 3.57,
+        "away_odds": 2.19,
+        "result": "Away"
+    },
+    {
+        "match_id": "M026",
+        "home_team": "West Ham",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-04 08:27:30",
+        "home_odds": 2.12,
+        "draw_odds": 4.24,
+        "away_odds": 2.63,
+        "result": "Home"
+    },
+    {
+        "match_id": "M027",
+        "home_team": "West Ham",
+        "away_team": "Man City",
+        "start_time": "2025-07-07 13:02:59",
+        "home_odds": 2.66,
+        "draw_odds": 3.3,
+        "away_odds": 3.01,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M028",
+        "home_team": "West Ham",
+        "away_team": "Everton",
+        "start_time": "2025-07-06 13:03:34",
+        "home_odds": 1.95,
+        "draw_odds": 2.95,
+        "away_odds": 2.51,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M029",
+        "home_team": "Man City",
+        "away_team": "Leeds",
+        "start_time": "2025-07-05 18:53:25",
+        "home_odds": 1.81,
+        "draw_odds": 3.92,
+        "away_odds": 2.09,
+        "result": "Home"
+    },
+    {
+        "match_id": "M030",
+        "home_team": "Arsenal",
+        "away_team": "Spurs",
+        "start_time": "2025-07-04 07:14:28",
+        "home_odds": 1.89,
+        "draw_odds": 2.98,
+        "away_odds": 3.0,
+        "result": "Home"
+    },
+    {
+        "match_id": "M031",
+        "home_team": "Liverpool",
+        "away_team": "Everton",
+        "start_time": "2025-07-05 00:40:08",
+        "home_odds": 2.09,
+        "draw_odds": 3.45,
+        "away_odds": 2.61,
+        "result": "Home"
+    },
+    {
+        "match_id": "M032",
+        "home_team": "Newcastle",
+        "away_team": "Spurs",
+        "start_time": "2025-07-06 11:59:40",
+        "home_odds": 2.31,
+        "draw_odds": 3.43,
+        "away_odds": 3.09,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M033",
+        "home_team": "Chelsea",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-03 15:43:31",
+        "home_odds": 2.28,
+        "draw_odds": 3.18,
+        "away_odds": 3.29,
+        "result": "Home"
+    },
+    {
+        "match_id": "M034",
+        "home_team": "Man City",
+        "away_team": "West Ham",
+        "start_time": "2025-07-03 12:58:07",
+        "home_odds": 2.34,
+        "draw_odds": 3.34,
+        "away_odds": 2.42,
+        "result": "Home"
+    },
+    {
+        "match_id": "M035",
+        "home_team": "Chelsea",
+        "away_team": "Everton",
+        "start_time": "2025-07-07 00:36:58",
+        "home_odds": 2.77,
+        "draw_odds": 4.21,
+        "away_odds": 2.15,
+        "result": "Away"
+    },
+    {
+        "match_id": "M036",
+        "home_team": "West Ham",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-03 14:07:30",
+        "home_odds": 2.96,
+        "draw_odds": 4.35,
+        "away_odds": 3.27,
+        "result": "Home"
+    },
+    {
+        "match_id": "M037",
+        "home_team": "Everton",
+        "away_team": "Leeds",
+        "start_time": "2025-07-06 18:30:53",
+        "home_odds": 2.06,
+        "draw_odds": 3.3,
+        "away_odds": 2.09,
+        "result": "Home"
+    },
+    {
+        "match_id": "M038",
+        "home_team": "Newcastle",
+        "away_team": "Man United",
+        "start_time": "2025-07-06 14:08:19",
+        "home_odds": 2.91,
+        "draw_odds": 4.07,
+        "away_odds": 2.43,
+        "result": "Away"
+    },
+    {
+        "match_id": "M039",
+        "home_team": "West Ham",
+        "away_team": "Everton",
+        "start_time": "2025-07-05 15:00:06",
+        "home_odds": 1.99,
+        "draw_odds": 3.09,
+        "away_odds": 3.45,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M040",
+        "home_team": "West Ham",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-02 22:36:37",
+        "home_odds": 2.7,
+        "draw_odds": 2.61,
+        "away_odds": 2.88,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M041",
+        "home_team": "West Ham",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-07 23:46:17",
+        "home_odds": 1.87,
+        "draw_odds": 3.52,
+        "away_odds": 3.28,
+        "result": "Home"
+    },
+    {
+        "match_id": "M042",
+        "home_team": "Chelsea",
+        "away_team": "Man City",
+        "start_time": "2025-07-08 22:08:31",
+        "home_odds": 2.28,
+        "draw_odds": 4.38,
+        "away_odds": 2.85,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M043",
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-03 22:18:45",
+        "home_odds": 2.3,
+        "draw_odds": 3.67,
+        "away_odds": 2.78,
+        "result": "Away"
+    },
+    {
+        "match_id": "M044",
+        "home_team": "Man City",
+        "away_team": "Spurs",
+        "start_time": "2025-07-07 00:12:38",
+        "home_odds": 2.09,
+        "draw_odds": 3.29,
+        "away_odds": 3.01,
+        "result": "Home"
+    },
+    {
+        "match_id": "M045",
+        "home_team": "Spurs",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-03 08:54:23",
+        "home_odds": 1.81,
+        "draw_odds": 3.74,
+        "away_odds": 2.84,
+        "result": "Home"
+    },
+    {
+        "match_id": "M046",
+        "home_team": "West Ham",
+        "away_team": "Man City",
+        "start_time": "2025-07-09 02:44:52",
+        "home_odds": 2.41,
+        "draw_odds": 2.76,
+        "away_odds": 2.52,
+        "result": "Home"
+    },
+    {
+        "match_id": "M047",
+        "home_team": "Man City",
+        "away_team": "Spurs",
+        "start_time": "2025-07-05 23:20:55",
+        "home_odds": 2.14,
+        "draw_odds": 3.38,
+        "away_odds": 2.81,
+        "result": "Home"
+    },
+    {
+        "match_id": "M048",
+        "home_team": "West Ham",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-06 19:17:17",
+        "home_odds": 2.6,
+        "draw_odds": 3.61,
+        "away_odds": 3.4,
+        "result": "Home"
+    },
+    {
+        "match_id": "M049",
+        "home_team": "Liverpool",
+        "away_team": "Man United",
+        "start_time": "2025-07-04 17:57:45",
+        "home_odds": 1.94,
+        "draw_odds": 2.71,
+        "away_odds": 2.83,
+        "result": "Home"
+    },
+    {
+        "match_id": "M050",
+        "home_team": "Leeds",
+        "away_team": "Man City",
+        "start_time": "2025-07-03 06:12:49",
+        "home_odds": 2.66,
+        "draw_odds": 2.91,
+        "away_odds": 2.95,
+        "result": "Home"
+    },
+    {
+        "match_id": "M051",
+        "home_team": "Everton",
+        "away_team": "Man United",
+        "start_time": "2025-07-02 23:18:06",
+        "home_odds": 2.89,
+        "draw_odds": 4.19,
+        "away_odds": 2.14,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M052",
+        "home_team": "Man United",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-05 04:20:04",
+        "home_odds": 1.8,
+        "draw_odds": 4.04,
+        "away_odds": 2.96,
+        "result": "Home"
+    },
+    {
+        "match_id": "M053",
+        "home_team": "Everton",
+        "away_team": "West Ham",
+        "start_time": "2025-07-05 22:14:41",
+        "home_odds": 2.65,
+        "draw_odds": 3.62,
+        "away_odds": 2.17,
+        "result": "Away"
+    },
+    {
+        "match_id": "M054",
+        "home_team": "Liverpool",
+        "away_team": "West Ham",
+        "start_time": "2025-07-03 09:11:43",
+        "home_odds": 1.84,
+        "draw_odds": 3.24,
+        "away_odds": 2.83,
+        "result": "Home"
+    },
+    {
+        "match_id": "M055",
+        "home_team": "Arsenal",
+        "away_team": "Man United",
+        "start_time": "2025-07-05 05:45:34",
+        "home_odds": 2.24,
+        "draw_odds": 4.37,
+        "away_odds": 3.46,
+        "result": "Home"
+    },
+    {
+        "match_id": "M056",
+        "home_team": "Spurs",
+        "away_team": "Man City",
+        "start_time": "2025-07-03 15:22:23",
+        "home_odds": 2.62,
+        "draw_odds": 3.83,
+        "away_odds": 2.53,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M057",
+        "home_team": "Newcastle",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-07 00:40:27",
+        "home_odds": 2.91,
+        "draw_odds": 2.97,
+        "away_odds": 2.24,
+        "result": "Away"
+    },
+    {
+        "match_id": "M058",
+        "home_team": "Liverpool",
+        "away_team": "Newcastle",
+        "start_time": "2025-07-05 18:55:12",
+        "home_odds": 1.83,
+        "draw_odds": 3.97,
+        "away_odds": 2.5,
+        "result": "Away"
+    },
+    {
+        "match_id": "M059",
+        "home_team": "Man City",
+        "away_team": "Man United",
+        "start_time": "2025-07-07 22:01:11",
+        "home_odds": 1.99,
+        "draw_odds": 3.9,
+        "away_odds": 2.57,
+        "result": "Home"
+    },
+    {
+        "match_id": "M060",
+        "home_team": "Everton",
+        "away_team": "Man City",
+        "start_time": "2025-07-06 20:13:10",
+        "home_odds": 2.04,
+        "draw_odds": 4.34,
+        "away_odds": 2.52,
+        "result": "Away"
+    },
+    {
+        "match_id": "M061",
+        "home_team": "Man City",
+        "away_team": "Leeds",
+        "start_time": "2025-07-04 09:19:51",
+        "home_odds": 1.83,
+        "draw_odds": 2.89,
+        "away_odds": 2.49,
+        "result": "Away"
+    },
+    {
+        "match_id": "M062",
+        "home_team": "Man United",
+        "away_team": "Spurs",
+        "start_time": "2025-07-06 21:46:38",
+        "home_odds": 2.57,
+        "draw_odds": 3.3,
+        "away_odds": 3.47,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M063",
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-06 17:26:04",
+        "home_odds": 2.85,
+        "draw_odds": 3.02,
+        "away_odds": 2.87,
+        "result": "Away"
+    },
+    {
+        "match_id": "M064",
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-04 22:58:40",
+        "home_odds": 2.52,
+        "draw_odds": 3.19,
+        "away_odds": 3.18,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M065",
+        "home_team": "West Ham",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-05 15:43:02",
+        "home_odds": 2.26,
+        "draw_odds": 3.65,
+        "away_odds": 2.38,
+        "result": "Away"
+    },
+    {
+        "match_id": "M066",
+        "home_team": "Arsenal",
+        "away_team": "West Ham",
+        "start_time": "2025-07-03 06:45:06",
+        "home_odds": 2.91,
+        "draw_odds": 3.58,
+        "away_odds": 3.08,
+        "result": "Away"
+    },
+    {
+        "match_id": "M067",
+        "home_team": "Man City",
+        "away_team": "Spurs",
+        "start_time": "2025-07-04 11:48:07",
+        "home_odds": 2.32,
+        "draw_odds": 4.4,
+        "away_odds": 3.38,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M068",
+        "home_team": "Chelsea",
+        "away_team": "Man United",
+        "start_time": "2025-07-08 21:32:02",
+        "home_odds": 2.41,
+        "draw_odds": 3.83,
+        "away_odds": 2.49,
+        "result": "Away"
+    },
+    {
+        "match_id": "M069",
+        "home_team": "West Ham",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-05 09:15:38",
+        "home_odds": 2.03,
+        "draw_odds": 3.83,
+        "away_odds": 2.57,
+        "result": "Away"
+    },
+    {
+        "match_id": "M070",
+        "home_team": "Liverpool",
+        "away_team": "Man United",
+        "start_time": "2025-07-04 09:32:55",
+        "home_odds": 2.29,
+        "draw_odds": 4.17,
+        "away_odds": 2.46,
+        "result": "Home"
+    },
+    {
+        "match_id": "M071",
+        "home_team": "Leeds",
+        "away_team": "Spurs",
+        "start_time": "2025-07-08 00:35:50",
+        "home_odds": 2.36,
+        "draw_odds": 3.38,
+        "away_odds": 2.32,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M072",
+        "home_team": "Liverpool",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-07 00:28:43",
+        "home_odds": 2.14,
+        "draw_odds": 3.83,
+        "away_odds": 2.93,
+        "result": "Home"
+    },
+    {
+        "match_id": "M073",
+        "home_team": "Man City",
+        "away_team": "Man United",
+        "start_time": "2025-07-05 16:34:56",
+        "home_odds": 2.07,
+        "draw_odds": 2.9,
+        "away_odds": 2.04,
+        "result": "Home"
+    },
+    {
+        "match_id": "M074",
+        "home_team": "Everton",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-09 04:10:40",
+        "home_odds": 2.35,
+        "draw_odds": 4.27,
+        "away_odds": 2.86,
+        "result": "Away"
+    },
+    {
+        "match_id": "M075",
+        "home_team": "Newcastle",
+        "away_team": "Everton",
+        "start_time": "2025-07-05 01:55:19",
+        "home_odds": 2.28,
+        "draw_odds": 2.8,
+        "away_odds": 3.03,
+        "result": "Away"
+    },
+    {
+        "match_id": "M076",
+        "home_team": "Chelsea",
+        "away_team": "Newcastle",
+        "start_time": "2025-07-06 08:24:31",
+        "home_odds": 2.06,
+        "draw_odds": 4.11,
+        "away_odds": 3.04,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M077",
+        "home_team": "West Ham",
+        "away_team": "Man City",
+        "start_time": "2025-07-03 02:14:51",
+        "home_odds": 2.9,
+        "draw_odds": 2.74,
+        "away_odds": 2.2,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M078",
+        "home_team": "West Ham",
+        "away_team": "Leeds",
+        "start_time": "2025-07-05 04:40:10",
+        "home_odds": 2.51,
+        "draw_odds": 4.4,
+        "away_odds": 3.34,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M079",
+        "home_team": "West Ham",
+        "away_team": "Newcastle",
+        "start_time": "2025-07-02 19:18:15",
+        "home_odds": 2.8,
+        "draw_odds": 3.6,
+        "away_odds": 3.35,
+        "result": "Away"
+    },
+    {
+        "match_id": "M080",
+        "home_team": "Everton",
+        "away_team": "Leeds",
+        "start_time": "2025-07-06 05:50:12",
+        "home_odds": 2.11,
+        "draw_odds": 2.99,
+        "away_odds": 2.96,
+        "result": "Away"
+    },
+    {
+        "match_id": "M081",
+        "home_team": "West Ham",
+        "away_team": "Everton",
+        "start_time": "2025-07-07 06:48:07",
+        "home_odds": 2.55,
+        "draw_odds": 3.05,
+        "away_odds": 2.12,
+        "result": "Home"
+    },
+    {
+        "match_id": "M082",
+        "home_team": "Man United",
+        "away_team": "Spurs",
+        "start_time": "2025-07-05 15:56:22",
+        "home_odds": 2.18,
+        "draw_odds": 3.58,
+        "away_odds": 2.21,
+        "result": "Home"
+    },
+    {
+        "match_id": "M083",
+        "home_team": "Liverpool",
+        "away_team": "Man City",
+        "start_time": "2025-07-03 05:13:59",
+        "home_odds": 1.88,
+        "draw_odds": 3.32,
+        "away_odds": 2.81,
+        "result": "Home"
+    },
+    {
+        "match_id": "M084",
+        "home_team": "Man City",
+        "away_team": "Newcastle",
+        "start_time": "2025-07-04 23:24:27",
+        "home_odds": 2.27,
+        "draw_odds": 4.04,
+        "away_odds": 3.42,
+        "result": "Home"
+    },
+    {
+        "match_id": "M085",
+        "home_team": "Leeds",
+        "away_team": "Newcastle",
+        "start_time": "2025-07-09 07:09:27",
+        "home_odds": 2.37,
+        "draw_odds": 4.39,
+        "away_odds": 2.45,
+        "result": "Home"
+    },
+    {
+        "match_id": "M086",
+        "home_team": "Newcastle",
+        "away_team": "West Ham",
+        "start_time": "2025-07-06 05:36:39",
+        "home_odds": 2.7,
+        "draw_odds": 3.59,
+        "away_odds": 2.9,
+        "result": "Home"
+    },
+    {
+        "match_id": "M087",
+        "home_team": "Man City",
+        "away_team": "Man United",
+        "start_time": "2025-07-04 23:53:11",
+        "home_odds": 2.32,
+        "draw_odds": 2.56,
+        "away_odds": 2.5,
+        "result": "Away"
+    },
+    {
+        "match_id": "M088",
+        "home_team": "Newcastle",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-08 11:21:57",
+        "home_odds": 2.81,
+        "draw_odds": 4.34,
+        "away_odds": 3.47,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M089",
+        "home_team": "Newcastle",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-07 05:11:26",
+        "home_odds": 1.9,
+        "draw_odds": 3.36,
+        "away_odds": 3.3,
+        "result": "Home"
+    },
+    {
+        "match_id": "M090",
+        "home_team": "Man United",
+        "away_team": "Newcastle",
+        "start_time": "2025-07-07 23:36:17",
+        "home_odds": 2.19,
+        "draw_odds": 3.41,
+        "away_odds": 2.51,
+        "result": "Away"
+    },
+    {
+        "match_id": "M091",
+        "home_team": "Man United",
+        "away_team": "Newcastle",
+        "start_time": "2025-07-04 03:34:07",
+        "home_odds": 2.1,
+        "draw_odds": 2.66,
+        "away_odds": 2.03,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M092",
+        "home_team": "Spurs",
+        "away_team": "Man City",
+        "start_time": "2025-07-05 15:06:22",
+        "home_odds": 2.58,
+        "draw_odds": 4.06,
+        "away_odds": 2.98,
+        "result": "Away"
+    },
+    {
+        "match_id": "M093",
+        "home_team": "Man City",
+        "away_team": "Leeds",
+        "start_time": "2025-07-04 02:37:29",
+        "home_odds": 2.81,
+        "draw_odds": 3.74,
+        "away_odds": 2.36,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M094",
+        "home_team": "Chelsea",
+        "away_team": "Man City",
+        "start_time": "2025-07-05 09:47:23",
+        "home_odds": 2.36,
+        "draw_odds": 3.01,
+        "away_odds": 2.55,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M095",
+        "home_team": "Chelsea",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-09 05:27:53",
+        "home_odds": 2.96,
+        "draw_odds": 2.72,
+        "away_odds": 2.04,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M096",
+        "home_team": "Newcastle",
+        "away_team": "Leeds",
+        "start_time": "2025-07-08 22:56:34",
+        "home_odds": 2.93,
+        "draw_odds": 2.9,
+        "away_odds": 2.89,
+        "result": "Away"
+    },
+    {
+        "match_id": "M097",
+        "home_team": "Man City",
+        "away_team": "Chelsea",
+        "start_time": "2025-07-05 14:29:00",
+        "home_odds": 2.64,
+        "draw_odds": 3.1,
+        "away_odds": 3.03,
+        "result": "Away"
+    },
+    {
+        "match_id": "M098",
+        "home_team": "Leeds",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-07 14:44:41",
+        "home_odds": 2.22,
+        "draw_odds": 3.36,
+        "away_odds": 2.56,
+        "result": "Draw"
+    },
+    {
+        "match_id": "M099",
+        "home_team": "Spurs",
+        "away_team": "Arsenal",
+        "start_time": "2025-07-07 06:17:17",
+        "home_odds": 2.82,
+        "draw_odds": 4.14,
+        "away_odds": 2.16,
+        "result": "Away"
+    },
+    {
+        "match_id": "M100",
+        "home_team": "Everton",
+        "away_team": "Liverpool",
+        "start_time": "2025-07-06 19:23:36",
+        "home_odds": 2.32,
+        "draw_odds": 3.97,
+        "away_odds": 3.45,
+        "result": "Home"
+    }
+]

@@ -1,0 +1,101 @@
+match_id,home_team,away_team,start_time,home_odds,draw_odds,away_odds,result
+M001,Chelsea,Arsenal,2025-07-03 18:22:55,2.69,2.99,2.21,Home
+M002,West Ham,Chelsea,2025-07-02 17:14:21,2.51,2.56,2.14,Home
+M003,Leeds,Arsenal,2025-07-05 18:03:45,2.47,3.93,3.05,Draw
+M004,Everton,Man United,2025-07-05 09:17:03,2.77,2.51,3.21,Draw
+M005,Spurs,Man United,2025-07-05 02:58:09,1.99,4.41,2.5,Home
+M006,Chelsea,Spurs,2025-07-04 02:35:52,2.82,3.71,3.21,Away
+M007,West Ham,Chelsea,2025-07-03 15:48:29,2.97,3.26,2.83,Away
+M008,Leeds,Spurs,2025-07-09 00:48:14,2.49,3.91,2.07,Home
+M009,Man United,Chelsea,2025-07-03 11:16:37,2.83,4.23,2.57,Draw
+M010,Spurs,Liverpool,2025-07-07 12:50:53,2.24,2.92,2.4,Away
+M011,Chelsea,Liverpool,2025-07-02 19:12:42,2.44,2.99,2.69,Home
+M012,West Ham,Man City,2025-07-02 18:38:00,2.62,4.19,3.16,Home
+M013,Arsenal,Spurs,2025-07-03 13:14:42,2.28,2.63,3.37,Draw
+M014,Spurs,Man City,2025-07-05 01:38:14,2.59,3.29,3.37,Draw
+M015,Man United,Liverpool,2025-07-05 05:43:18,2.1,3.62,2.39,Draw
+M016,Leeds,Newcastle,2025-07-08 13:08:59,2.23,4.49,2.21,Draw
+M017,Arsenal,Chelsea,2025-07-02 17:41:00,1.98,2.82,3.02,Draw
+M018,Newcastle,Leeds,2025-07-09 05:25:44,2.52,3.44,2.38,Draw
+M019,Arsenal,Chelsea,2025-07-04 19:52:12,2.62,3.57,2.4,Away
+M020,Chelsea,Man United,2025-07-09 00:40:48,2.32,3.41,3.43,Away
+M021,Man United,West Ham,2025-07-07 12:08:54,2.71,3.52,2.16,Away
+M022,West Ham,Man City,2025-07-05 02:09:44,1.98,4.03,2.81,Away
+M023,West Ham,Arsenal,2025-07-07 20:47:45,2.52,3.48,2.17,Draw
+M024,Man United,Man City,2025-07-05 18:59:00,1.87,4.26,3.42,Home
+M025,Everton,Chelsea,2025-07-02 11:50:50,2.97,3.57,2.19,Away
+M026,West Ham,Liverpool,2025-07-04 08:27:30,2.12,4.24,2.63,Home
+M027,West Ham,Man City,2025-07-07 13:02:59,2.66,3.3,3.01,Draw
+M028,West Ham,Everton,2025-07-06 13:03:34,1.95,2.95,2.51,Draw
+M029,Man City,Leeds,2025-07-05 18:53:25,1.81,3.92,2.09,Home
+M030,Arsenal,Spurs,2025-07-04 07:14:28,1.89,2.98,3.0,Home
+M031,Liverpool,Everton,2025-07-05 00:40:08,2.09,3.45,2.61,Home
+M032,Newcastle,Spurs,2025-07-06 11:59:40,2.31,3.43,3.09,Draw
+M033,Chelsea,Arsenal,2025-07-03 15:43:31,2.28,3.18,3.29,Home
+M034,Man City,West Ham,2025-07-03 12:58:07,2.34,3.34,2.42,Home
+M035,Chelsea,Everton,2025-07-07 00:36:58,2.77,4.21,2.15,Away
+M036,West Ham,Arsenal,2025-07-03 14:07:30,2.96,4.35,3.27,Home
+M037,Everton,Leeds,2025-07-06 18:30:53,2.06,3.3,2.09,Home
+M038,Newcastle,Man United,2025-07-06 14:08:19,2.91,4.07,2.43,Away
+M039,West Ham,Everton,2025-07-05 15:00:06,1.99,3.09,3.45,Draw
+M040,West Ham,Arsenal,2025-07-02 22:36:37,2.7,2.61,2.88,Draw
+M041,West Ham,Liverpool,2025-07-07 23:46:17,1.87,3.52,3.28,Home
+M042,Chelsea,Man City,2025-07-08 22:08:31,2.28,4.38,2.85,Draw
+M043,Arsenal,Chelsea,2025-07-03 22:18:45,2.3,3.67,2.78,Away
+M044,Man City,Spurs,2025-07-07 00:12:38,2.09,3.29,3.01,Home
+M045,Spurs,Chelsea,2025-07-03 08:54:23,1.81,3.74,2.84,Home
+M046,West Ham,Man City,2025-07-09 02:44:52,2.41,2.76,2.52,Home
+M047,Man City,Spurs,2025-07-05 23:20:55,2.14,3.38,2.81,Home
+M048,West Ham,Arsenal,2025-07-06 19:17:17,2.6,3.61,3.4,Home
+M049,Liverpool,Man United,2025-07-04 17:57:45,1.94,2.71,2.83,Home
+M050,Leeds,Man City,2025-07-03 06:12:49,2.66,2.91,2.95,Home
+M051,Everton,Man United,2025-07-02 23:18:06,2.89,4.19,2.14,Draw
+M052,Man United,Arsenal,2025-07-05 04:20:04,1.8,4.04,2.96,Home
+M053,Everton,West Ham,2025-07-05 22:14:41,2.65,3.62,2.17,Away
+M054,Liverpool,West Ham,2025-07-03 09:11:43,1.84,3.24,2.83,Home
+M055,Arsenal,Man United,2025-07-05 05:45:34,2.24,4.37,3.46,Home
+M056,Spurs,Man City,2025-07-03 15:22:23,2.62,3.83,2.53,Draw
+M057,Newcastle,Liverpool,2025-07-07 00:40:27,2.91,2.97,2.24,Away
+M058,Liverpool,Newcastle,2025-07-05 18:55:12,1.83,3.97,2.5,Away
+M059,Man City,Man United,2025-07-07 22:01:11,1.99,3.9,2.57,Home
+M060,Everton,Man City,2025-07-06 20:13:10,2.04,4.34,2.52,Away
+M061,Man City,Leeds,2025-07-04 09:19:51,1.83,2.89,2.49,Away
+M062,Man United,Spurs,2025-07-06 21:46:38,2.57,3.3,3.47,Draw
+M063,Arsenal,Chelsea,2025-07-06 17:26:04,2.85,3.02,2.87,Away
+M064,Arsenal,Chelsea,2025-07-04 22:58:40,2.52,3.19,3.18,Draw
+M065,West Ham,Chelsea,2025-07-05 15:43:02,2.26,3.65,2.38,Away
+M066,Arsenal,West Ham,2025-07-03 06:45:06,2.91,3.58,3.08,Away
+M067,Man City,Spurs,2025-07-04 11:48:07,2.32,4.4,3.38,Draw
+M068,Chelsea,Man United,2025-07-08 21:32:02,2.41,3.83,2.49,Away
+M069,West Ham,Liverpool,2025-07-05 09:15:38,2.03,3.83,2.57,Away
+M070,Liverpool,Man United,2025-07-04 09:32:55,2.29,4.17,2.46,Home
+M071,Leeds,Spurs,2025-07-08 00:35:50,2.36,3.38,2.32,Draw
+M072,Liverpool,Chelsea,2025-07-07 00:28:43,2.14,3.83,2.93,Home
+M073,Man City,Man United,2025-07-05 16:34:56,2.07,2.9,2.04,Home
+M074,Everton,Chelsea,2025-07-09 04:10:40,2.35,4.27,2.86,Away
+M075,Newcastle,Everton,2025-07-05 01:55:19,2.28,2.8,3.03,Away
+M076,Chelsea,Newcastle,2025-07-06 08:24:31,2.06,4.11,3.04,Draw
+M077,West Ham,Man City,2025-07-03 02:14:51,2.9,2.74,2.2,Draw
+M078,West Ham,Leeds,2025-07-05 04:40:10,2.51,4.4,3.34,Draw
+M079,West Ham,Newcastle,2025-07-02 19:18:15,2.8,3.6,3.35,Away
+M080,Everton,Leeds,2025-07-06 05:50:12,2.11,2.99,2.96,Away
+M081,West Ham,Everton,2025-07-07 06:48:07,2.55,3.05,2.12,Home
+M082,Man United,Spurs,2025-07-05 15:56:22,2.18,3.58,2.21,Home
+M083,Liverpool,Man City,2025-07-03 05:13:59,1.88,3.32,2.81,Home
+M084,Man City,Newcastle,2025-07-04 23:24:27,2.27,4.04,3.42,Home
+M085,Leeds,Newcastle,2025-07-09 07:09:27,2.37,4.39,2.45,Home
+M086,Newcastle,West Ham,2025-07-06 05:36:39,2.7,3.59,2.9,Home
+M087,Man City,Man United,2025-07-04 23:53:11,2.32,2.56,2.5,Away
+M088,Newcastle,Liverpool,2025-07-08 11:21:57,2.81,4.34,3.47,Draw
+M089,Newcastle,Arsenal,2025-07-07 05:11:26,1.9,3.36,3.3,Home
+M090,Man United,Newcastle,2025-07-07 23:36:17,2.19,3.41,2.51,Away
+M091,Man United,Newcastle,2025-07-04 03:34:07,2.1,2.66,2.03,Draw
+M092,Spurs,Man City,2025-07-05 15:06:22,2.58,4.06,2.98,Away
+M093,Man City,Leeds,2025-07-04 02:37:29,2.81,3.74,2.36,Draw
+M094,Chelsea,Man City,2025-07-05 09:47:23,2.36,3.01,2.55,Draw
+M095,Chelsea,Liverpool,2025-07-09 05:27:53,2.96,2.72,2.04,Draw
+M096,Newcastle,Leeds,2025-07-08 22:56:34,2.93,2.9,2.89,Away
+M097,Man City,Chelsea,2025-07-05 14:29:00,2.64,3.1,3.03,Away
+M098,Leeds,Arsenal,2025-07-07 14:44:41,2.22,3.36,2.56,Draw
+M099,Spurs,Arsenal,2025-07-07 06:17:17,2.82,4.14,2.16,Away
+M100,Everton,Liverpool,2025-07-06 19:23:36,2.32,3.97,3.45,Home
